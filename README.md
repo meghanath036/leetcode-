@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2180-count-integers-with-even-digit-sum](https://github.com/meghanath036/leetcode-/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2553-separate-the-digits-in-an-array](https://github.com/meghanath036/leetcode-/tree/master/2553-separate-the-digits-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -19,4 +20,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/meghanath036/leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2553-separate-the-digits-in-an-array](https://github.com/meghanath036/leetcode-/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
