@@ -19,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/meghanath036/leetcode-/tree/master/0283-move-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/meghanath036/leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2553-separate-the-digits-in-an-array](https://github.com/meghanath036/leetcode-/tree/master/2553-separate-the-digits-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/meghanath036/leetcode-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/meghanath036/leetcode-/tree/master/0344-reverse-string) |
 ## String
 |  |
