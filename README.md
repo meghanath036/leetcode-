@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/meghanath036/leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/meghanath036/leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2553-separate-the-digits-in-an-array](https://github.com/meghanath036/leetcode-/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/meghanath036/leetcode-/tree/master/2574-left-and-right-sum-differences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/meghanath036/leetcode-/tree/master/0349-intersection-of-two-arrays) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/meghanath036/leetcode-/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
