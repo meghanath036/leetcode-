@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/meghanath036/leetcode-/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/meghanath036/leetcode-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/meghanath036/leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/meghanath036/leetcode-/tree/master/0724-find-pivot-index) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/meghanath036/leetcode-/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/meghanath036/leetcode-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/meghanath036/leetcode-/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/meghanath036/leetcode-/tree/master/0349-intersection-of-two-arrays) |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/meghanath036/leetcode-/tree/master/0724-find-pivot-index) |
 | [2574-left-and-right-sum-differences](https://github.com/meghanath036/leetcode-/tree/master/2574-left-and-right-sum-differences) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/meghanath036/leetcode-/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
