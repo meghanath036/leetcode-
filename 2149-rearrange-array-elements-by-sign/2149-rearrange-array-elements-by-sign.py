@@ -1,17 +1,17 @@
-class Solution:
-    def rearrangeArray(self, nums: List[int]) -> List[int]:
-        p=[]
-        n=[]
+class Solution(object):
+    def rearrangeArray(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: List[int]
+        """
+        res=[0]*len(nums)
+        p=0
+        n=1
         for i in range(0,len(nums)):
             if(nums[i]>=0):
-                p.append(nums[i])
+                res[p]=nums[i]
+                p+=2
             else:
-                n.append(nums[i])
-        k=0
-        for i in range(0,len(n)):
-            nums[k]=p[i]
-            k+=1
-            nums[k]=n[i]
-            k+=1
-        return nums
-        
+                res[n]=nums[i]
+                n+=2
+        return res
