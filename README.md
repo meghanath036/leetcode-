@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/meghanath036/leetcode-/tree/master/0053-maximum-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/meghanath036/leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/meghanath036/leetcode-/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/meghanath036/leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/meghanath036/leetcode-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/meghanath036/leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/meghanath036/leetcode-/tree/master/0643-maximum-average-subarray-i) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/meghanath036/leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/meghanath036/leetcode-/tree/master/0724-find-pivot-index) |
 | [2574-left-and-right-sum-differences](https://github.com/meghanath036/leetcode-/tree/master/2574-left-and-right-sum-differences) |
 ## Greedy
