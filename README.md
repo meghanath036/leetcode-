@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/meghanath036/leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/meghanath036/leetcode-/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/meghanath036/leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/meghanath036/leetcode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/meghanath036/leetcode-/tree/master/0349-intersection-of-two-arrays) |
 ## Array
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/meghanath036/leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/meghanath036/leetcode-/tree/master/0053-maximum-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/meghanath036/leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/meghanath036/leetcode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/meghanath036/leetcode-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/meghanath036/leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/meghanath036/leetcode-/tree/master/0283-move-zeroes) |
